@@ -1,4 +1,4 @@
-# Dabang - Sales Dashboard Design
+# Admin - Sales Dashboard Design
 
 ### Quick Start
 
